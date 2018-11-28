@@ -5,7 +5,7 @@
 # @Time    : 2018/11/24
 # @desc    : 测试接口
 
-from work_api import Client
+from work_weixin import Client
 import getpass
 import yaml
 import os

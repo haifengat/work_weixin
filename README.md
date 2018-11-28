@@ -6,7 +6,7 @@
 
 ### 安装教程
 
-` pip install hf_work_weixin `
+` pip install work_weixin `
 
 ### 使用说明
 
@@ -25,7 +25,7 @@ corpid: wxxxxxxxxxxxxxxxx
 
 ```python
 
-from work_api import Client
+from work_weixin import Client
 import getpass
 import yaml
 import os
