@@ -33,7 +33,7 @@ os.system('pipreqs . --encoding=utf8 --force')  # 生成 requirements.txt
 setup(
     name='work_weixin',  # 包名
     python_requires='>=3.4.0',  # python环境
-    version='0.0.2',  # 包的版本
+    version='0.0.2.1',  # 包的版本
     description="企业微信开发接口",  # 包简介，显示在PyPI上
     long_description=long_description,  # 读取的Readme文档内容
     long_description_content_type=long_description_content_type,  # 指定包文档格式为markdown
